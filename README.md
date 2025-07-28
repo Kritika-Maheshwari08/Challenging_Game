@@ -20,5 +20,5 @@ A fun Python terminal game where you try to guess the number randomly chosen by 
 
 ## 🔗 Live Demo
 
-[▶️ Click](https://replit.com/@kritika052003/SmallFamousDrivers?v=1)
+[▶️ Click Here](https://replit.com/@kritika052003/SmallFamousDrivers?v=1)
 
