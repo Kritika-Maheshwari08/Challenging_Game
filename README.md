@@ -20,8 +20,6 @@ A fun Python terminal game where you try to guess the number randomly chosen by 
 
 ## 🔗 Live Demo
 
-[▶️ Try It Online](## 🔗 Live Demo
-
 [▶️ Try It Online](https://replit.com/@kritika052003/SmallFamousDrivers?v=1)
 
 > You can play the Number Guessing Game directly in your browser using Replit — no need to install Python locally!
